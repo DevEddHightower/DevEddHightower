@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DevEddHightower
+- 👋 Hi, I’m Edd
 - 👀 I’m interested in learning about many different things. especially programming and animation subjects.
 - 🌱 I’m currently learning the .Net framework and learning about C#
 - 💞️ I’m looking to collaborate on anything or with anyone.
