@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Edd
-- 👀 I’m interested in learning about many different things. especially programming and animation subjects.
-- 🌱 I’m currently learning the .Net framework and learning about C#
+- 👀 I’m interested in learning about many different things. especially computer graphics topics and web development.
 - 💞️ I’m looking to collaborate on anything or with anyone.
 - 📫 How to reach me, through email : deveddhightower@gmail.com
 
